@@ -66,7 +66,7 @@
 ```
 virtual-lab-forge/
 ├── SKILL.md                          # Skill 主入口（核心理念/架构/模式/红线）
-├── LICENSE                           # MIT License（含原始项目归属声明）
+├── LICENSE                           # MIT License（标准文本）
 ├── README.md                         # 本文件
 └── references/
     ├── architecture.md               # 七层架构详解 + 模块依赖图 + 数据流
@@ -112,16 +112,18 @@ virtual-lab-forge/
 本 Skill 的方法论与架构模式提炼自以下开源项目：
 
 > **ChemAIForge** — AI 驱动的化学虚拟实验平台
-> 作者：[zhangifonly](https://github.com/zhangifonly)
-> 仓库：https://github.com/zhangifonly/ChemAIForge
-> 许可：MIT License (Copyright (c) 2026 zhangifonly)
+>
+> - 作者：[zhangifonly](https://github.com/zhangifonly)
+> - 仓库：https://github.com/zhangifonly/ChemAIForge
+> - 许可：MIT License
+> - 版权声明：Copyright (c) 2026 zhangifonly
 
-根据 MIT License 的要求，本衍生作品保留了原始作者的版权声明与许可声明（见 [LICENSE](LICENSE)）。本 Skill 中的方法论提炼、模式归纳、通用化文档与代码模板为原创贡献，依据同一 MIT License 开源。
+根据 MIT License 的要求，本衍生作品在此保留并声明原始作者 [zhangifonly](https://github.com/zhangifonly) 的版权信息与项目来源。本 Skill 中的方法论提炼、模式归纳、通用化文档与代码模板为原创贡献，依据同一 MIT License 开源。
 
 ### 合规说明
 
-- ✅ 原始项目为 MIT 协议，允许修改、分发、商用
-- ✅ 本项目保留了原始项目的版权声明（MIT 协议唯一硬性要求）
+- ✅ 原始项目（ChemAIForge）为 MIT 协议，允许修改、分发、商用
+- ✅ 本项目在 README 中保留了原始项目的版权声明与来源（MIT 协议唯一硬性要求）
 - ✅ 本项目为方法论提炼（架构思想/模式），非源码直接复制
 - ✅ 衍生作品采用与原始项目相同的 MIT 协议
 
